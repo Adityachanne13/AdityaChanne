@@ -1,87 +1,147 @@
-<!--
-  Premium Profile README for Aditya Channe
-  Paste into: https://github.com/Adityachanne13/AdityaChanne/edit/main/README.md
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Aditya%20Channe&fontSize=45&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=MERN%20Stack%20Developer%20|%20IoT%20Engineer%20|%20Problem%20Solver&descSize=23&descAlignY=85&section=header" />
 
-# 👋 Hi — I’m **Aditya Channe**
-**MERN Stack Developer** — building thoughtful web experiences and real-world prototypes.  
-Based in Nagpur, Maharashtra. **Actively seeking a full-time developer role.**
+I’m **Aditya M. Channe**, a **Computer Science & Engineering (IoT)** graduate from **G. H. Raisoni College of Engineering, Nagpur**.  
+I’m passionate about **IoT systems**, **Web Development**, and **Data Visualization** — turning real-world ideas into connected, intelligent, and interactive digital experiences.  
+Currently, I’m seeking a **full-time developer role** where I can apply my technical and creative skills to impactful projects.
 
----
-
-![Open to work](https://img.shields.io/badge/Status-Open%20to%20work-ff6b6b) ![Location](https://img.shields.io/badge/Location-Nagpur%2C%20IN-blue)
+💡 *“Transforming innovation into scalable, connected solutions.”*
 
 ---
 
-## 🎯 My focus
-I design and implement full-stack applications using **MongoDB · Express · React · Node.js**. I care about clean architecture, readable code, and shipping features that solve real problems. I deliver prototypes fast, iterate based on feedback, and document projects so others can run and learn from them.
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif" alt="coding-gif">
+</div>
 
 ---
 
-## 🛠 Core Skills
-- **Languages & Runtime:** JavaScript (ES6+), Node.js  
-- **Frontend:** React (functional components, hooks), responsive UI fundamentals (HTML, CSS)  
-- **Backend:** Express, RESTful API design, data modeling with MongoDB  
-- **Realtime & Integrations:** WebSockets / socket-based features (where applicable)  
-- **Tools:** Git, VS Code, Postgres/MongoDB local dev (where used)  
-- **Practices:** Component-driven design, modular code, readable commits, clear README + setup instructions
+### 📬 Connect with Me  
 
-> Note: I keep the stack focused on what matters to the product — not buzzwords. If you want a particular tech highlighted in a job application, tell me and I’ll adapt the README.
+<p align="center">
+  <a href="mailto:adityachanne786@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.linkedin.com/in/adityachanne13">
+    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
+  </a>
+  <a href="https://github.com/Adityachanne13">
+    <img src="https://img.shields.io/badge/GitHub-091519?style=for-the-badge&logo=github&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.instagram.com/aditya_channe13/">
+    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
+  </a>
+</p>
 
----
-
-## 🚀 Selected projects (truthful & concise)
-> Short, honest status + one-line problem / tech summary. Links should point to repo or demo when available.
-
-- **Smart Waste Management & Reporting (SWaMRS)** — *In progress*  
-  Building an end-to-end MERN prototype for monitoring bin fill levels, generating reports, and visualizing sensor data. (Tech: React, Node.js, MongoDB). 🔧 *Work-in-progress — README contains goals & setup.*  
-  🔗 Repo: `./SWaMRS` (see pinned repo for full details)
-
-- **AR-assisted Shopping Experience** — *Prototype complete*  
-  An AR-assisted shopping front-end that overlays product information and simplified checkout flow for mobile/AR viewers. Focus: UX experiments and frontend AR integrations. 🔗 Repo: `./AR-shopping`
-
-- **Other work / prototypes** — *Several small experiments & half-finished proofs-of-concept*  
-  I keep many prototypes in progress — I list only stable/presentable repos on my profile pins. If you want to see WIP code, ask and I’ll share branches.
-
----
-
-## 🧭 How I work
-- Small, testable increments — I prefer working features end-to-end.  
-- Clean commits & clear PR descriptions.  
-- I document setup steps and usage in each repo’s README so anyone can run my projects locally.
+<p align="center">
+  <a href="https://github.com/Adityachanne13">
+    <img src="https://komarev.com/ghpvc/?username=Adityachanne13&color=3a8296&label=Profile%20Views" />
+  </a>
+  <a href="https://github.com/Adityachanne13">
+    <img src="https://img.shields.io/github/followers/Adityachanne13?label=Followers&color=3a8296&style=flat" />
+  </a>
+</p>
 
 ---
 
-## 📂 Explore my repos
-1. Check the **pinned repositories** on my profile — those are my best, most presentable projects.  
-2. Open a repo → read its README for setup, features, and run instructions.  
-3. If something is WIP, I indicate status and next steps in the repo README.
+### 🧠 Technical Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,html,css,mongodb,mysql,powerbi&theme=light" />
+  </a>
+</p>
 
 ---
 
-## 📫 Contact / hire me
-I am actively looking for a **full-time developer role** — product teams, startups, or engineering teams that value practical outcomes.
+### ⚙️ Tools & Platforms
 
-- **Email:** aditya@example.com  ← *replace with your real email*  
-- **LinkedIn:** https://www.linkedin.com/in/AdityaChanne  ← *replace if needed*
-
-**Preferred message:** Role title, short team description, and a pay/benefits range — I’ll respond quickly.
-
----
-
-## ✨ Quick profile bio (copy into GitHub “Bio” field — <= 160 chars)
-`MERN Stack Developer from Nagpur. Building focused web prototypes & UX experiments. Actively seeking a full-time developer role.`
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux&theme=light" />
+  </a>
+</p>
 
 ---
 
-## ✅ Commit message suggestion
-When you paste this README and commit, use:  
-`chore(profile): add professional profile README`
+### 💼 Projects
+
+#### 🐾 Smart Pet Feeder
+*Jan 2022 – Jun 2022*  
+IoT-based automated pet feeder using sensors and programmable timers for scheduled feeding.  
+⮞ Automated food dispensing reduced manual effort and ensured consistent nutrition.
+
+#### 🛒 AR-Assisted Shopping Experience
+*Aug 2024 – Oct 2024*  
+Developed a **ReactJS-based AR prototype** that lets users visualize products in 3D before purchase.  
+⮞ Enhanced shopping engagement with immersive AR previews and intuitive interactions.
+
+#### 🌾 IoT & AI-Based Crop Health Monitoring and Automated Irrigation System
+*Mar 2025 – May 2025*  
+Integrated **ESP32**, **soil & humidity sensors**, and a **CMOS module** for detecting crop health.  
+⮞ Used **AI-driven color analysis** to detect deficiencies and recommend fertilizers.  
+⮞ Automated irrigation via moisture-based pump control and real-time cloud monitoring.
 
 ---
 
-> If you want, I can now:
-> - Replace `aditya@example.com` and the LinkedIn URL with your real contact details and produce the final README ready to commit.  
-> - Or generate a short, tailored cover message you can include in outreach mails to recruiters.
+### 🎓 Education
 
-If you want the **HTML + CSS themed profile page** (for GitHub Pages) I mentioned, I’ll paste a premium single-file `profile.html` with styles next — say **yes** and I’ll provide it.
+**G. H. Raisoni College of Engineering, Nagpur**  
+B.Tech in Computer Science & Engineering (IoT) — *CGPA: 8.8* (Completed: 2025)
+
+**G. H. Raisoni Institute of Engineering & Technology, Nagpur**  
+Diploma in Electronics & Telecommunication Engineering — *82.41%* (2022)
+
+**Vidya Sadhana Convent & High School, Nagpur**  
+SSC — *67.80%* (2019)
+
+---
+
+### 🧩 Internship Experience
+
+**Cyberathon: MERN Stack Development**  
+- Modernized static UIs by converting Bootstrap templates into ReactJS components.  
+- Worked on live MERN projects — strengthening frontend & backend coordination.  
+- Gained practical knowledge of debugging, API integration, and Git version control.
+
+---
+
+### 🧰 Soft Skills
+- Critical Thinking  
+- Problem Solving  
+- Team Collaboration  
+- Adaptability  
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityachanne13&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+  <img src="https://streak-stats.demolab.com?user=Adityachanne13&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
+</p>
+
+---
+
+### 🌐 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachanne13&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
+</p>
+
+---
+
+### 🏆 Contribution Highlights
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Adityachanne13&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
