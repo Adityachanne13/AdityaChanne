@@ -1,57 +1,87 @@
-# 👋 Hi, I’m Aditya Channe
-**MERN-stack developer** • building production-ready web apps, automation tools, and cloud-deployable projects.  
-Based in Nagpur, Maharashtra. 🎯 Open to internships & junior dev roles.
+<!--
+  Premium Profile README for Aditya Channe
+  Paste into: https://github.com/Adityachanne13/AdityaChanne/edit/main/README.md
+-->
+
+# 👋 Hi — I’m **Aditya Channe**
+**MERN Stack Developer** — building thoughtful web experiences and real-world prototypes.  
+Based in Nagpur, Maharashtra. **Actively seeking a full-time developer role.**
 
 ---
 
-## 🔭 What I do
-- Build full-stack web apps using **MongoDB • Express • React • Node.js**.
-- Implement responsive UI, REST APIs, and real-time features (WebSockets).
-- Deploy apps to **Heroku / Vercel / Netlify** and use Docker for containerization.
+![Open to work](https://img.shields.io/badge/Status-Open%20to%20work-ff6b6b) ![Location](https://img.shields.io/badge/Location-Nagpur%2C%20IN-blue)
 
 ---
 
-## 🛠️ Tech & Tools
-**Frontend:** React, Redux, Tailwind CSS, HTML5, CSS3  
-**Backend:** Node.js, Express, MongoDB, Mongoose, REST APIs, JWT auth  
-**DevOps / Others:** Git, GitHub, Docker, Vercel, Netlify, Firebase, Postman
+## 🎯 My focus
+I design and implement full-stack applications using **MongoDB · Express · React · Node.js**. I care about clean architecture, readable code, and shipping features that solve real problems. I deliver prototypes fast, iterate based on feedback, and document projects so others can run and learn from them.
 
 ---
 
-## ⭐ Featured Projects
-- **Smart Waste Management & Reporting (SWaMRS)** — MERN app for smart bin monitoring and analytics. (Tech: React, Node, MongoDB, Socket.io). 🔗 [Repo / Demo](#)  
-- **AR Webstore (experiment)** — AR-enabled frontend for an e-commerce prototype. 🔗 [Repo](#)  
-- **Daily Inspire Hub** — Content automation + React landing & social posting scripts. 🔗 [Repo / Demo](#)
+## 🛠 Core Skills
+- **Languages & Runtime:** JavaScript (ES6+), Node.js  
+- **Frontend:** React (functional components, hooks), responsive UI fundamentals (HTML, CSS)  
+- **Backend:** Express, RESTful API design, data modeling with MongoDB  
+- **Realtime & Integrations:** WebSockets / socket-based features (where applicable)  
+- **Tools:** Git, VS Code, Postgres/MongoDB local dev (where used)  
+- **Practices:** Component-driven design, modular code, readable commits, clear README + setup instructions
 
-> Short project lines: problem solved • tech used • link
-
----
-
-## 📂 How to explore my work
-1. Scroll my pinned repos (top of profile) — these are my best 3–4 projects.  
-2. Read the README in each repo for setup & live demo links.  
-3. Want to run locally? Most repos contain `README` with `npm install` and `npm start`.
+> Note: I keep the stack focused on what matters to the product — not buzzwords. If you want a particular tech highlighted in a job application, tell me and I’ll adapt the README.
 
 ---
 
-## 📫 Contact me
-- Email: **aditya@example.com** ← *replace with real email*  
-- LinkedIn: [Aditya Channe](https://www.linkedin.com/in/your-link)  
-- Portfolio: https://your-portfolio.com
+## 🚀 Selected projects (truthful & concise)
+> Short, honest status + one-line problem / tech summary. Links should point to repo or demo when available.
+
+- **Smart Waste Management & Reporting (SWaMRS)** — *In progress*  
+  Building an end-to-end MERN prototype for monitoring bin fill levels, generating reports, and visualizing sensor data. (Tech: React, Node.js, MongoDB). 🔧 *Work-in-progress — README contains goals & setup.*  
+  🔗 Repo: `./SWaMRS` (see pinned repo for full details)
+
+- **AR-assisted Shopping Experience** — *Prototype complete*  
+  An AR-assisted shopping front-end that overlays product information and simplified checkout flow for mobile/AR viewers. Focus: UX experiments and frontend AR integrations. 🔗 Repo: `./AR-shopping`
+
+- **Other work / prototypes** — *Several small experiments & half-finished proofs-of-concept*  
+  I keep many prototypes in progress — I list only stable/presentable repos on my profile pins. If you want to see WIP code, ask and I’ll share branches.
 
 ---
 
-## 📈 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityachanne13&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachanne13&layout=compact)
+## 🧭 How I work
+- Small, testable increments — I prefer working features end-to-end.  
+- Clean commits & clear PR descriptions.  
+- I document setup steps and usage in each repo’s README so anyone can run my projects locally.
 
 ---
 
-## ⚡ Quick tips
-- Keep this README updated as you finish projects.  
-- Use `/assets` folder to add small screenshots and reference them as `![alt](/assets/myproj.png)`.  
-- Keep each project README focused: how to run, demo link, tech stack, features.
+## 📂 Explore my repos
+1. Check the **pinned repositories** on my profile — those are my best, most presentable projects.  
+2. Open a repo → read its README for setup, features, and run instructions.  
+3. If something is WIP, I indicate status and next steps in the repo README.
 
 ---
 
-Thanks for stopping by — I’m always building. 👋
+## 📫 Contact / hire me
+I am actively looking for a **full-time developer role** — product teams, startups, or engineering teams that value practical outcomes.
+
+- **Email:** aditya@example.com  ← *replace with your real email*  
+- **LinkedIn:** https://www.linkedin.com/in/AdityaChanne  ← *replace if needed*
+
+**Preferred message:** Role title, short team description, and a pay/benefits range — I’ll respond quickly.
+
+---
+
+## ✨ Quick profile bio (copy into GitHub “Bio” field — <= 160 chars)
+`MERN Stack Developer from Nagpur. Building focused web prototypes & UX experiments. Actively seeking a full-time developer role.`
+
+---
+
+## ✅ Commit message suggestion
+When you paste this README and commit, use:  
+`chore(profile): add professional profile README`
+
+---
+
+> If you want, I can now:
+> - Replace `aditya@example.com` and the LinkedIn URL with your real contact details and produce the final README ready to commit.  
+> - Or generate a short, tailored cover message you can include in outreach mails to recruiters.
+
+If you want the **HTML + CSS themed profile page** (for GitHub Pages) I mentioned, I’ll paste a premium single-file `profile.html` with styles next — say **yes** and I’ll provide it.
